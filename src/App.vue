@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import Header from './components/Header.vue';
+</script>
 
 <template>
-  <img alt="CloudTravel logo" src="./assets/logo.jpg" />
+  <Header />
 </template>
 
 <style>
