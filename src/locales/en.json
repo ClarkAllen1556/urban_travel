@@ -1,5 +1,16 @@
 {
-  "message": {
-    "hello": "hello world"
+  "alt": {
+    "logo": "CloudTravel logo"
+  },
+  "local": {
+    "lang": "English",
+    "cur": {
+      "usd": "USD"
+    }
+  },
+  "nav": {
+    "account": "My Account",
+    "logout": "Log out",
+    "login": "Log in"
   }
 }
